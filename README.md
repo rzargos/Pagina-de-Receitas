@@ -2,10 +2,6 @@
 
 Este projeto é uma página web simples sobre uma receita de cupcake, desenvolvida com **HTML** e **CSS**, como parte dos estudos do curso Fullstack da [Rocketseat](https://www.rocketseat.com.br/). O foco principal foi aplicar os conceitos básicos de estruturação HTML e estilização CSS.
 
-## 🔗 Link para visualização
-
-Você pode visualizar a página da receita de cupcake [clicando aqui](#) (adicione o link real se estiver hospedada).
-
 ## 🖥️ Tecnologias Utilizadas
 
 - **HTML5**: para estruturar o conteúdo da página.
