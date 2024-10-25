@@ -24,14 +24,11 @@ A página foi construída com uma estrutura simples de HTML, que inclui:
 2. **Lista de Ingredientes**:
    - Uma lista não ordenada `<ul>` com todos os ingredientes necessários.
 
-3. **Passo a Passo da Receita**:
-   - Uma lista ordenada `<ol>` que explica o processo para preparar os cupcakes.
-
-4. **Imagem do Cupcake**:
+3. **Imagem do Cupcake**:
    - Uma imagem ilustrativa do cupcake finalizado.
 
 5. **Rodapé**:
-   - Informações adicionais ou links de referência.
+   - Informações adicionais.
 
 ## 🎨 Estilização com CSS
 
@@ -42,10 +39,21 @@ A estilização foi feita para tornar a página atraente, utilizando as seguinte
 - **Tipografia Personalizada**: A fonte foi escolhida a partir do Google Fonts para dar um toque moderno.
 - **Espaçamento e Alinhamento**: As margens, paddings e alinhamentos foram configurados para garantir boa legibilidade e design harmonioso.
 
-## 🚀 Como Executar o Projeto
+## 📚 Aprendizados
 
-Para executar o projeto localmente, siga estas etapas:
+Neste projeto, foram aplicados conceitos de:
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+- Estruturação semântica de HTML.
+- Uso de listas ordenadas e não ordenadas.
+- Aplicação de estilos CSS, como flexbox, margin, padding, e fontes personalizadas.
+- Criação de um layout básico responsivo.
+
+## 🛠️ Melhorias Futuras
+
+- Adicionar um formulário para os usuários enviarem suas próprias variações da receita.
+- Incluir animações sutis com CSS.
+- Melhorar a responsividade para dispositivos móveis.
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias.
